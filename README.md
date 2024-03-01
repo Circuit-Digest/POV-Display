@@ -1,5 +1,5 @@
 # [POV Display](https://circuitdigest.com/microcontroller-projects/)
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/77b530a1262981109ac6fea9252a023eb977d3dc/Title%20Image.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20render.PNG" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -8,9 +8,11 @@
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
 <img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/77b530a1262981109ac6fea9252a023eb977d3dc/demo%201.gif" width="" height="" />
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/6f61098322965cccb96df0f72b6173e037986a09/5b524cfe-3bc1-4b98-a26f-c42a085585a5.PNG" width="" alt="alt_text" title="image_tooltip">
-<br><img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/6f61098322965cccb96df0f72b6173e037986a09/5b524cfe-3bc1-4b98-a26f-c42a085585a5.PNG" width="" alt="alt_text" title="image_tooltip">
-<br><img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/af322ba374e2ac930c75bd0d09a540f4c90b5f0e/assembled%20.PNG" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/POV%20LED3d.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20Holder.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20PCB%20with%20Holder.PNG" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20motor%20mount.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20render.PNG" width="" alt="alt_text" title="image_tooltip">
 <br>
 <br>
 <br>
