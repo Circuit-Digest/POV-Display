@@ -7,11 +7,11 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/77b530a1262981109ac6fea9252a023eb977d3dc/demo%201.gif" width="" height="" />
+<img src=".gif" width="" height="" />
 <img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/POV%20LED3d.png" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20Holder.png" width="" alt="alt_text" title="image_tooltip">
-<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20PCB%20with%20Holder.PNG" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20motor%20mount.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20PCB%20with%20Holder.PNG" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20render.PNG" width="" alt="alt_text" title="image_tooltip">
 <br>
 <br>
