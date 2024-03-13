@@ -1,5 +1,5 @@
 # [POV Display](https://circuitdigest.com/microcontroller-projects/)
-<img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20render.PNG" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/POV-Display/blob/1c9c9c28a74f9780597656aef017a7568387f437/Images/Title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
