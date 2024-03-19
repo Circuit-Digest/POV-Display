@@ -4,7 +4,12 @@
 
 <br>
 <a href="https://circuitdigest.com/tags/ESP32"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=ESP32 Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
-<br>
+<be>
+
+[DIY POV Display Tutorial using ESP32 Arduino](https://circuitdigest.com/microcontroller-projects/diy-pov-display-using-ESP32-Arduino)
+
+[POV Display full Yoututbe Video](https://www.youtube.com/embed/gkemkTWuw_Q)
+
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
 <img src=".gif" width="" height="" />
