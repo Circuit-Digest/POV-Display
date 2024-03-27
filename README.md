@@ -1,4 +1,4 @@
-# [POV Display](https://circuitdigest.com/microcontroller-projects/)
+# [POV Display](https://circuitdigest.com/microcontroller-projects/diy-pov-display-using-ESP32-Arduino)
 <img src="https://github.com/Circuit-Digest/POV-Display/blob/2f1bfc0aeca3331b11ce25ec9c63ebb8f6ed246f/Images/POV%20display%20using%20ESP32.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
